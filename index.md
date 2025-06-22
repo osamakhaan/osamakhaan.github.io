@@ -73,5 +73,18 @@ Y Tian<sup>\*</sup>, C Wen<sup>\*</sup>, M Shi<sup>\*</sup>, MM Afzal, H Huang, 
 <!-- * [Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.](https://osamakhaan.github.io)\\
   Min Shi<sup>\*</sup>, *Muhammad Muneeb Afzal*<sup>\*</sup>, Hao Huang<sup>\*</sup> et al.. In Nature Machine Intelligence (In Review), 2024. -->
 
+##### Gallery
+* * *
+
+<!-- 3x2 Image Grid (using only .jpg images) -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: repeat(3, 1fr); gap: 24px; justify-content: center; align-items: center; max-width: 600px; margin: 2em auto;">
+  <img src="assets/img/gallery_1.jpg" alt="Gallery 1" style="width: 100%; aspect-ratio: 1/1; border-radius: 12px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
+  <img src="assets/img/gallery_2.jpg" alt="Gallery 2" style="width: 100%; aspect-ratio: 1/1; border-radius: 12px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
+  <img src="assets/img/gallery_3.jpg" alt="Gallery 3" style="width: 100%; aspect-ratio: 1/1; border-radius: 12px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
+  <img src="assets/img/gallery_4.jpg" alt="Gallery 4" style="width: 100%; aspect-ratio: 1/1; border-radius: 12px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
+  <img src="assets/img/gallery_5.jpg" alt="Gallery 5" style="width: 100%; aspect-ratio: 1/1; border-radius: 12px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
+  <img src="assets/img/gallery_6.jpg" alt="Gallery 6" style="width: 100%; aspect-ratio: 1/1; border-radius: 12px; box-shadow: 0 2px 8px #ccc; object-fit: cover;" />
+</div>
+
 
 
