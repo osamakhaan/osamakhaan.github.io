@@ -1,0 +1,7 @@
+title: Muhammad Osama Khan
+logo: /assets/img/avatar.jpg
+description: 
+show_downloads: false
+google_analytics:
+exclude: [vendor]
+theme: jekyll-theme-minimal
